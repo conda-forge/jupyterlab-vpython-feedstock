@@ -1,11 +1,11 @@
-About jupyterlab-vpython
-========================
+About jupyterlab-vpython-feedstock
+==================================
+
+Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/jupyterlab-vpython-feedstock/blob/main/LICENSE.txt)
 
 Home: https://github.com/jcoady/jupyterlab_vpython
 
 Package license: BSD-3-Clause
-
-Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/jupyterlab-vpython-feedstock/blob/main/LICENSE.txt)
 
 Summary: VPython extension for JupyterLab
 
