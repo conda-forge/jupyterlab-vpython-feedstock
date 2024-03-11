@@ -1,5 +1,5 @@
 {% set name = "jupyterlab-vpython" %}
-{% set version = "3.1.7" %}
+{% set version = "3.1.8" %}
 
 
 package:
@@ -8,7 +8,7 @@ package:
 
 source:
   url: https://pypi.io/packages/source/{{ name[0] }}/{{ name }}/jupyterlab_vpython-{{ version }}.tar.gz
-  sha256: ea2256840ddc55742ee90e9dd1f943f88489d267e6f71979dcc9e397cd6e5618
+  sha256: fd0f1dd08681c22445bc454f19cc64b8890ad598401f97799cf3655f32042825
 
 build:
   number: 0
